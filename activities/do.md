@@ -13,5 +13,11 @@ Desenvolva um programa que converta uma temperatura de Celsius para Fahrenheit. 
 
 ### Algoritmo 4: Verificação de Maioridade
 Peça ao usuário para inserir sua idade e informe se ele é maior de idade ou não.
-Algoritmo 5: Cálculo de Média Ponderada
+
+### Algoritmo 5: Cálculo de Média Ponderada
 Solicite ao usuário para inserir três notas e seus respectivos pesos. Calcule e exiba a média ponderada das notas.
+
+
+#### diferenças
+java aceita , 'virgula' como padrão em números flutuante.
+java só roda com a classe em letras Iniciais Maiusculas e o nome do arquivo tem que esta no mesmo padrão.
